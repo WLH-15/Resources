@@ -28,7 +28,7 @@ Learn JavaScript is video course provided by freecodecamp, and it covers basic J
 
 https://www.codewars.com/
 
-Code Wars is a website that provides coding toy problems to help build build programming ability. These toy problems(called kata in code wars) often ask for you to create a function that will perform a certain task. These kata can be filtered into different categories(arrays, strings, etc.), and difficulty levels(level 8 is the easiest, level 1 is the most difficult)
+Code Wars is a website that provides coding toy problems to help build programming ability. These toy problems(called kata in code wars) often ask for you to create a function that will perform a certain task. These kata can be filtered into different categories(arrays, strings, etc.), and difficulty levels(level 8 is the easiest, level 1 is the most difficult)
 
 #### freecodecamp
 
