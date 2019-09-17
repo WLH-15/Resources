@@ -6,9 +6,19 @@ This repo is a combination of resources that cover topics that are taught in Dev
 
 ### Article Resources
 
-### Video Resources
+#### MDN
 
-#### General
+https://developer.mozilla.org/en-US/
+
+MDN provides great documentation for JavaScript. This documentation includes an overview of a specific concept, its syntax, as well as how to use it within your code. 
+
+#### Medium
+
+https://medium.com/topic/javascript
+
+Medium is a great source for articles relating to JavaScript topics. Ranging from broad to specific concepts of JavaScript, medium articles generally provide an overview of the concept, as well as code snippets to demonstrate how those concepts are implemented.
+
+### Video Resources
 
 #### JavaScript Crash Course, Traversy Media 
 
