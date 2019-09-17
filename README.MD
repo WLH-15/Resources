@@ -9,11 +9,21 @@ This repo is a combination of resources that cover topics that are taught in Dev
 ### Video Resources
 
 #### General
-`JavaScript Crash Course, Traversy Media` - https://www.youtube.com/watch?v=hdI2bqOjy3c
 
-`Learn JavaScript, freecodecamp.org` - https://www.youtube.com/watch?v=PkZNo7MFNFg
+#### JavaScript Crash Course, Traversy Media 
+
+https://www.youtube.com/watch?v=hdI2bqOjy3c
+
+The JavaScript Crash Course is a great resource to cover the fundamentals of JavaScript, such as variables, datatypes, arrays, objects, functions, and even a little bit of DOM manipulation.
+
+#### Learn JavaScript, freecodecamp.org
+
+https://www.youtube.com/watch?v=PkZNo7MFNFg
+
+Learn JavaScript is video course provided by freecodecamp, and it covers basic JavaScript principles in depth, including variables, datatypes, arrays, array methods, objects functions, for loops, ternaries, and ES6 features.
 
 ### Hands-on Resources
+`Code Wars Website` - 
 
 ## HTML/CSS Resources
 
