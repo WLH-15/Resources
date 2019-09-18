@@ -56,14 +56,42 @@ Codecademy provides courses on many different coding languages, including JavaSc
 
 ### Article Resources
 
+#### MDN
+
+https://developer.mozilla.org/en-US/
+
+Just like it does with JavaScript, MDN provides great documentation regarding HTML/CSS topics, and how to use them within your code.
+
+#### CSS Tricks
+
+https://css-tricks.com/
+
+CSS Tricks provides great articles that cover many CSS topics and concepts. Also found on CSS Tricks are code snippets that show code in action and videos that cover various CSS concepts.
+
 ### Video Resources
+
+#### HTML Crash Course, Traversy Media
+
+https://www.youtube.com/watch?v=UB1O30fR-EE
+
+Just like Traversy Media's JavaScript Crash Course, the HTML Crash Course covers the fundamental concepts of HTML and how to use them within your code.
+
+#### CSS Crash Course, Traversy Media
+
+https://www.youtube.com/watch?v=yfoY53QXEnI
+
+Just like the previous Traversy Media Crash Courses, the CSS Crash Course covers the fundamental concepts of CSS, and how to implement it into your code.
 
 ### Hands-on Resources
 
-## Vanilla-JS Resources
+#### CodePen
 
-### Article Resources
+https://codepen.io/
 
-### Video Resources
+CodePen is an online code editor that lets you write code in a browser based code editor. It is a great resource if you feel like you need extra practice with HTML and CSS, and it will even let you write some JavaScript functionality for your code.
 
-### Hands-on Resources
+#### Codecademy
+
+https://www.codecademy.com/
+
+Codecademy, along with providing a great course for learning JavaScript, provides courses for HTML and CSS.  These courses are structured similarly, with bite sized lessons followed by coding related to the lessons topic.
