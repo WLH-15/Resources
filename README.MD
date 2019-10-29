@@ -88,7 +88,7 @@ Just like the previous Traversy Media Crash Courses, the CSS Crash Course covers
 
 https://codepen.io/
 
-CodePen is an online code editor that lets you write code in a browser based code editor. It is a great resource if you feel like you need extra practice with HTML and CSS, and it will even let you write some JavaScript functionality for your code.
+CodePen is an online code editor that lets you write code directly into your browser. It is a great resource if you feel like you need extra practice with HTML and CSS, and it will even let you write some JavaScript functionality for your code.
 
 #### Codecademy
 
