@@ -94,4 +94,4 @@ CodePen is an online code editor that lets you write code directly into your bro
 
 https://www.codecademy.com/
 
-Codecademy, along with providing a great course for learning JavaScript, provides courses for HTML and CSS.  These courses are structured similarly, with bite sized lessons followed by coding related to the lessons topic.
+Codecademy, along with providing a great course for learning JavaScript, provides courses for HTML and CSS.  These courses are structured similarly, with bite sized lessons followed by coding related to the lessons topic. Each course consists of a couple hours of content.
