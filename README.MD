@@ -44,7 +44,7 @@ Code Wars is a website that provides coding toy problems to help build programmi
 
 https://www.freecodecamp.org/
 
-freecodecamp is an online education platform that helps users gain web development skills, including JavaScript and HTML/CSS. Mini-lessons are taught that teach code concepts, usually followed by solving a problem related to that topic.
+freecodecamp is an online education platform that helps users gain web development skills, including JavaScript and HTML/CSS. Mini-lessons are taught that teach code concepts, usually followed by solving a problem related to that topic. Each course provides lots of great material for repetition.
 
 #### Codecademy
 
